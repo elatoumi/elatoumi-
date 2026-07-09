@@ -25,13 +25,11 @@
 
 ```yaml
 name: Ela Toumi
-role: AI Engineering Student · Builder
-location: Tunis, Tunisia 🇹🇳
+role: AI Engineering Student
 school: ESPRIT Engineering School
-degree: 3rd Year — AI Engineering (GPA 17.4/20)
+degree: 4rd Year — AI Engineering 
 focus: [LLMs, Multi-Agent Systems, XAI, Applied Machine Learning]
 currently: Building an AI research platform
-seeking: AI Engineering internships 🌸
 ```
 
 <br/>
